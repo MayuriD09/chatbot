@@ -1,0 +1,8 @@
+tensorflow-cpu
+Flask
+json
+pickle
+random
+nltk
+numpy
+os

@@ -1,5 +1,5 @@
 tensorflow-cpu
-Flask
+flask
 json
 pickle
 random

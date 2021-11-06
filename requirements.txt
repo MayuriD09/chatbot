@@ -1,9 +1,5 @@
-tensorflow-cpu
-json
-pickle
-random
-nltk
-flask
-numpy
-os
-json
+nltk~=3.6.1
+numpy~=1.20.1
+tensorflow~=2.3.0
+tensorflow-gpu~=2.3.0
+flask~=1.1.2

@@ -1,9 +1,9 @@
 tensorflow-cpu
-flask
+json
 pickle
 random
 nltk
-json
+flask
 numpy
 os
 json
